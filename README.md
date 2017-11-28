@@ -1,2 +1,2 @@
-# tutorial
-Java Tutorial
+# Tutorial
+This is Java programming tutorial. 
