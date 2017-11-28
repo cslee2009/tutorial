@@ -61,7 +61,6 @@ public class Triangle {
 	}
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
         printTriangle1(4);
         System.out.println("");
         printTriangle2(4);

@@ -44,7 +44,7 @@ public class BinaryGap {
 				if(count >  largest) { 
 					largest = count; //check stored value is lower than couting value, else replace
 				}
-				count=0; //everytime encouter '1', reset to zeor
+				count=0; //everytime encouter '1', reset to zero
 				
 			}else {
 				count++;
@@ -77,8 +77,6 @@ public class BinaryGap {
 				     //return 0 if nothing matches after the process
 				     .orElse(0);
 	}
-	
-	
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
